@@ -613,4 +613,4 @@
 #permissions-modal-wrapper .role-side,#permissions-modal-wrapper .perm-side {background: var(--background-secondary) !important;}
 
 /* Blocked Wumpus image */
-#BLOCKED-tab > div > div > div > .image-1GzsFd { background-image: url(https://i.ibb.co/jrwMmqF/Wumpus.png) !important}
+.image-1GzsFd[style*='background-image: url("/assets/8c998f8fb62016fcfb4901e424ff378b.svg")'] { background-image: url('https://i.ibb.co/jrwMmqF/Wumpus.png') !important}
