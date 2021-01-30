@@ -518,59 +518,6 @@
     z-index: 1;
 }
 
-/* -- Fuck scrollbars >:( -- */
-::-webkit-scrollbar { display: none !important;}
-
-/* Notes popups */
-.note-3HfJZ5 { margin-right: 0; }
-
-/* Salons */
-.content-1x5b-n {
-    margin: 0 !important;
-    border-radius: 0;
-}
-.mainContent-u_9PKf { padding-left: 8px;}
-
-/* Membres */
-.member-3-YXUe {
-    margin: 0;
-    max-width: unset;
-}
-.layout-2DM8Md { border-radius: 0; padding: 0 16px;}
-.unread-2lAfLh { z-index: 1;}
-
-/* Menu dans les popups */
-.content-1LAB8Z { margin-right: 8px;}
-
-/* Popup invite */
-.scroller-2hZ97C { padding-left: 0;}
-.scroller-2hZ97C > .content-3YMskv { padding-right: 10px; }
-.inviteRow-2L02ae {border-radius: 0; padding-left: 15px;}
-
-/* Barre de tchat */
-.buttons-3JBrkn { padding-right: 10px;}
-
-/* Message épinglés */
-.messagesPopout-24nkyi { padding-right: 8px !important; }
-
-/* Paramètres */
-.sidebar-CFHs9e { padding-right : 0; margin: 0 40px 0 20px;}
-.sidebarRegion-VFTUkN { flex: unset;}
-.contentColumn-2hrIYH, .sidebarScrollable-1qPI87+.content-1rPSz4, .customScroller-26gWhv>div, .customColumn-Rb6toI, .hero-EvfTTA { max-width: none;}
-.featuresHeader-4YwLcc { margin-left: 95px;}
-
-/* Paramètre voix & vidéo */
-.userSettingsVoice-iwdUCU, .container-3PXSwK { width: auto !important;}
-
-/* MP */
-[id*="private-channels-"] { margin-left: 0px; max-width: unset;}
-
-/* Menu serveur */
-.item-1tOPte { margin-right: 8px;}
-
-/* Clique droit */
-.menu-3sdvDG .layer-v9HyYc { margin-left: -8px;}
-
 /* -- >:( fuck borders -- */
 .messageGroupWrapper-o-Zw7G, .inputDefault-_djjkz, .container-1nZlH6, .cardPrimary-1Hv-to, .cardPrimaryOutline-29Ujqw, .codeRedemptionRedirect-1wVR4b,
 .previewOverlay-2O7_KC, .markup-2BOw-j code
