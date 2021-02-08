@@ -25,11 +25,13 @@
 .scroller-2TZvBN { padding-bottom: 53px;}
 
 /* Serveurs */
+/*
 .listItem-2P_4kh { padding: 0 0 10px; margin: 0px;}
 .wrapper-21YSNc, .listItem-2P_4kh { width: auto; }
 .wrapper-25eVIn > svg > foreignObject { mask: none; border-radius: var(--server-radius);}
 .folderIconWrapper-226oVY, .expandedFolderBackground-2sPsd- { border-radius: var(--server-radius);}
 .folder-21wGz3, .folder-21wGz3:hover { background-color: transparent;}
+*/
 
 /* Dossiers */
 .wrapper-21YSNc > ul { height: auto !important;}

@@ -10,7 +10,7 @@ cd (powercord-dir)/src/Powercord/themes && git clone https://github.com/NYRI4/Co
 ```
 * `(powercord dir)` is frequently C:/Users/USERNAME/powercord
 
-Need help ? 
+Need help ?
 - [Discord](https://discord.gg/esB8HudVHN)
 
 ### BetterDiscord
